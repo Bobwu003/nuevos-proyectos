@@ -1,0 +1,89 @@
+.holi {
+    position: relative;
+    top: -22px; 
+}
+
+.hola {
+    position: relative;
+    left: 455px;
+    top: -320px;
+}
+
+.hello {
+    position: relative;
+    left: 895px;
+    top: -575px;
+}
+
+.mi-venta{
+ margin-left: 900px;
+ margin-top:  -49px;
+}
+
+.Zonas-Populares {
+    position: relative;
+    top: -510px; /* Ajusta este valor según necesites */
+}
+
+.Diego {
+    position: relative;
+   top: -513px;
+}
+
+.Casas-Venta {
+    margin-left: 400px;
+    position: relative;
+   top: -800px;
+}
+
+.Rojas {
+    position: relative;
+   top: -800px;
+   margin-left: 500px;
+}
+
+.Casas-Renta {
+    margin-left: 900px;
+    position: relative;
+   top: -1250px;
+}
+
+.Nevarez {
+    position: relative;
+   top: -1240px;
+   margin-left: 1000px;
+}
+
+.Departamentos-Venta {
+    margin-right: 1500px;
+    position: relative;
+   top: -1240px;
+}
+
+
+.Departamentos-renta {
+    margin-left: 400px;
+    position: relative;
+   top: -1802px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.content {
+    flex: 1;
+}
+
+footer {
+   
+    padding: 20px;
+   text-align: left;
+    position: relative;
+    top: -1240px; /* Mueve el footer 50 píxeles hacia arriba */
+    z-index: 10;
+}
+
